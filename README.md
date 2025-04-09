@@ -1,6 +1,8 @@
 # 🧠 AI-Powered Resume Screener
 A smart resume screening tool that ranks candidates based on semantic similarity and skill-based matching between resumes and job descriptions using BERT embeddings and custom NER. Ideal for recruiters and hiring managers to automatically rank, analyze, and shortlist candidates from PDF or CSV resume data.
 
+Resume Screener App : https://resume-screener-app-akash.streamlit.app
+
 ![Screenshot 2025-04-09 171222](https://github.com/user-attachments/assets/74eed874-14ac-449a-b44b-abbd116fa0be)
 
 
