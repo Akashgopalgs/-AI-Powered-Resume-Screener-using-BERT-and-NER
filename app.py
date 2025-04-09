@@ -7,7 +7,7 @@ from resume_screener import (
 
 def main():
     st.title("🧠 AI-Powered Resume Screener")
-    st.write("Upload resumes (CSV or PDF) and paste a job description to screen candidates.")
+    st.write("This App ranks candidates using semantic similarity between resume and job description uing BERT and NER.")
 
     files = st.file_uploader("Upload Resume Files (CSV or PDF)", type=["csv", "pdf"], accept_multiple_files=True)
     jd_text = st.text_area("Paste Job Description", height=200)
